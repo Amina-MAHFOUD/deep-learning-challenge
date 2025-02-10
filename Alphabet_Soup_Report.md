@@ -50,7 +50,7 @@ The purpose of this analysis is to develop a binary classification model that ca
   - Initial accuracy: ~73%  
   - Loss: Moderate, indicating room for improvement  
 
-  ![results](../deep-learning-challenge/First%20model%20results.png)
+  ![results](../deep-learning-challenge/Starter_Code/First%20model%20results.png)
 
 ---
 
