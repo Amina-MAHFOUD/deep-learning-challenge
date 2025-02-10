@@ -47,8 +47,10 @@ The purpose of this analysis is to develop a binary classification model that ca
   - Sigmoid activation was used in the output layer since this is a binary classification problem.  
 
 - **Model Performance:**  
-  - Initial accuracy: ~72%  
+  - Initial accuracy: ~73%  
   - Loss: Moderate, indicating room for improvement  
+
+  ![results](../deep-learning-challenge/First%20model%20results.png)
 
 ---
 
